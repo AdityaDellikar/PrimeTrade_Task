@@ -28,6 +28,12 @@ PrimeTrade is a full-stack FinTech-style dashboard with JWT authentication and C
 - Production scaling strategy provided in `SCALING_NOTE.md`
 - Status: Completed
 
+## Web application screenshots
+<img width="1279" height="754" alt="Screenshot 2026-02-17 at 9 56 01 PM" src="https://github.com/user-attachments/assets/9eb48fa1-a3e1-4bb4-80f2-8d094c613372" />
+<img width="1279" height="754" alt="Screenshot 2026-02-17 at 9 57 22 PM" src="https://github.com/user-attachments/assets/dfc7cbc3-bff3-4f19-87ee-56384378af70" />
+<img width="1279" height="754" alt="Screenshot 2026-02-17 at 9 57 28 PM" src="https://github.com/user-attachments/assets/aae8ed20-a6a3-4974-8c1c-1394ff1158ab" />
+
+
 ## Project Structure
 
 ```txt
