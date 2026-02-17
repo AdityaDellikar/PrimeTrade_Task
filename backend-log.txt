@@ -1,0 +1,12 @@
+(base) aditya@Adityas-MacBook-Air-10 backend % npm run build
+
+> primetrade-backend@1.0.0 build
+> tsc
+
+(base) aditya@Adityas-MacBook-Air-10 backend % npm run dev
+
+> primetrade-backend@1.0.0 dev
+> tsx watch src/server.ts
+
+MongoDB connected
+Server running on http://localhost:5001

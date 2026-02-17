@@ -1,0 +1,31 @@
+(base) aditya@Adityas-MacBook-Air-10 frontend % npm run bui
+ld
+
+> primetrade-frontend@1.0.0 build
+> next build
+
+  ▲ Next.js 14.2.14
+  - Environments: .env.local
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully
+ ✓ Linting and checking validity of types    
+ ✓ Collecting page data    
+ ✓ Generating static pages (7/7)
+   Finalizing page optimization  .   Collecting build trace
+ ✓ Collecting build traces    
+ ✓ Finalizing page optimization    
+
+Route (app)                              Size     First Load JS
+┌ ○ /                                    175 B          94.2 kB
+├ ○ /_not-found                          873 B          88.1 kB
+├ ○ /dashboard                           3.17 kB         140 kB
+├ ○ /login                               1.9 kB          139 kB
+└ ○ /register                            1.96 kB         139 kB
++ First Load JS shared by all            87.2 kB
+  ├ chunks/117-2f147445dd245a1d.js       31.6 kB
+  ├ chunks/fd9d1056-0aa22ff1b76dee2b.js  53.6 kB
+  └ other shared chunks (total)          1.95 kB
+
+
+○  (Static)  prerendered as static content
